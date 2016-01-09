@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Radice]]></title>
+        <description><![CDATA[Radice]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 07:58:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Once upon a time there was a man named Dwight. He owned a farm. On that farm he grew all sorts of different things; oranges, apples, strawberries, corn -- it was a mish-mash of fruits and vegetables is what I'm saying. Anyway, one day, Dwight got sick and died. It was sad. Nobody came to his funeral because nobody knew he was dead. He was a sad, lonely farmer with no friends, who died alone.Until the day he came back as a Strawberry monster. That was pretty cool.</p>]]></description>
+            <link>undefined528340b0-b3a3-45a0-a04d-a0d6f7c1e6f6/index.html</link>
+            <guid isPermaLink="false">528340b0-b3a3-45a0-a04d-a0d6f7c1e6f6</guid>
+            <pubDate>Sat, 09 Jan 2016 07:57:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
