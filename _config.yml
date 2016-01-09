@@ -1,0 +1,28 @@
+name: Radice
+favicon: null
+layout_spectrum: 0.9974881566595286
+typography_spectrum: 0.15682000550441444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7508662643376738
+  lightness: 0.4078639328945428
+  saturation: 0.8921153540723026
+  rhythmicContrast: 0.5502602146007121
+purpose: []
