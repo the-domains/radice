@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Radice]]></title>
         <description><![CDATA[Radice]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/radice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 07:58:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 07:58:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/radice/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/radice/3e8c43d0-8673-49de-b0ce-5b7eda2cdfb4/index.html</link>
+            <guid isPermaLink="false">3e8c43d0-8673-49de-b0ce-5b7eda2cdfb4</guid>
+            <pubDate>Sat, 09 Jan 2016 07:58:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Once upon a time there was a man named Dwight. He owned a farm. On that farm he grew all sorts of different things; oranges, apples, strawberries, corn -- it was a mish-mash of fruits and vegetables is what I'm saying. Anyway, one day, Dwight got sick and died. It was sad. Nobody came to his funeral because nobody knew he was dead. He was a sad, lonely farmer with no friends, who died alone.Until the day he came back as a Strawberry monster. That was pretty cool.</p>]]></description>
-            <link>undefined528340b0-b3a3-45a0-a04d-a0d6f7c1e6f6/index.html</link>
+            <link>https://thegrid.ai/radice/528340b0-b3a3-45a0-a04d-a0d6f7c1e6f6/index.html</link>
             <guid isPermaLink="false">528340b0-b3a3-45a0-a04d-a0d6f7c1e6f6</guid>
             <pubDate>Sat, 09 Jan 2016 07:57:56 GMT</pubDate>
         </item>
